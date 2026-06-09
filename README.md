@@ -110,7 +110,7 @@ bun run build
 ## 📞 Контакты
 
 - Telegram: [@OreonAuto](https://t.me/OreonAuto)
-- Телефон: +7 (495) 185-60-29
+- Телефон: +7 (495) 185-58-23
 - Email: sd-service@rambler.ru
 
 ## 📝 Лицензия
